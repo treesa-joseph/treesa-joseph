@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm Treesa Joseph
 
-<!--
-**treesa-joseph/treesa-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Enthusiast | 📊 Machine Learning | 📈 Data Engineering
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Insider Threat Detection system in Software Defined Network (SDN)
+- 🌱 I’m currently learning NLP, LLM
+- 😄 Pronouns: She/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me
+
+I'm a passionate data professional with a strong background in data engineering, analytics, and machine learning. My journey in the world of data has been an exciting adventure, filled with opportunities to explore the frontiers of technology and leverage data-driven insights to solve real-world problems.
+
+### Portfolio Highlights
+
+- **Machine Learning Projects**: I've designed and developed various machine learning models for Insider Threat Detection system in Software Defined Network (SDN) based on user behaviour from network logs in collaboration with Conatix.
+
+- **Data Engineering**: My experience in data engineering covers everything from building data pipelines and ETL processes to data warehousing and cloud platforms.
+
+- **Data Visualization**: I love transforming complex data into meaningful insights using tools like Tableau, Matplotlib, and Seaborn.
+
+- **GitHub Repositories**: Explore my repositories for a collection of personal projects.
+
+### Let's Connect
+
+I'm always excited to collaborate, learn, and grow in the ever-evolving world of data. Connect with me here on GitHub, and let's embark on a data-driven journey together!
+
+[LinkedIn](https://www.linkedin.com/in/treesa-joseph-chakkiath) 
