@@ -2,7 +2,7 @@
 
 🚀 AI Research Assistant | Data Enthusiast | 📊 Machine Learning | 📈 Data Engineering | Technical Consultant
 
-- 🔭 I’m currently working on Insider Threat Detection system in Software Defined Network (SDN)
+- 🔭 I’m currently working on LLM model at Gillmore Fintech Lab at the University of Warwick
 - 🌱 I’m currently learning more about Generative AI, especially LLM
 - 😄 Pronouns: She/her
 
