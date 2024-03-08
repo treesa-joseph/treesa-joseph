@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Treesa Joseph
 
-🚀 AI Research Assistant | Data Enthusiast | 📊 Machine Learning | 📈 Data Engineering | Technical Consultant
+🚀 AI Research Assistant | Reed Women in Tech Mentor | Data Enthusiast | 📊 Machine Learning | 📈 Data Engineering | Technical Consultant
 
 - 🔭 I’m currently working on LLM model at Gillmore Fintech Lab at the University of Warwick
 - 🌱 I’m currently learning more about Generative AI, especially LLM
